@@ -1,0 +1,11 @@
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\bin\Debug\BİR  KELİMEEEE.exe.config
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\bin\Debug\BİR  KELİMEEEE.exe
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\bin\Debug\BİR  KELİMEEEE.pdb
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\obj\Debug\Bir Kelime Bir Islem Kelime Kismi.csproj.AssemblyReference.cache
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\obj\Debug\Bir Kelime Bir Islem Kelime Kismi.csproj.SuggestedBindingRedirects.cache
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\obj\Debug\BİR__KELİMEEEE.Form1.resources
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\obj\Debug\BİR__KELİMEEEE.Properties.Resources.resources
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\obj\Debug\Bir Kelime Bir Islem Kelime Kismi.csproj.GenerateResource.cache
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\obj\Debug\Bir Kelime Bir Islem Kelime Kismi.csproj.CoreCompileInputs.cache
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\obj\Debug\BİR  KELİMEEEE.exe
+C:\Users\firtishqulu\Desktop\CSharp-Form-Bir-Kelime-Bir-Islem-Kelime-Kismi-master\BİR  KELİMEEEE\obj\Debug\BİR  KELİMEEEE.pdb
