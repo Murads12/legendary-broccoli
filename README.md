@@ -1,2 +1,2 @@
-# legendary-broccoli
+# legendary
 Bir Kelime Bir Islem
